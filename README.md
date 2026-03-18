@@ -55,6 +55,8 @@ Model graph:
 Calculation: 
 
 Open circuit characteristics
+
+
 <img width="564" height="834" alt="Screenshot 2026-03-18 102201" src="https://github.com/user-attachments/assets/b6165369-071d-490b-91d4-682be4b629c6" />
 <img width="506" height="779" alt="Screenshot 2026-03-18 102212" src="https://github.com/user-attachments/assets/1b8ce102-4c69-44bd-abf6-9f58d5811e10" />
 <img width="522" height="698" alt="Screenshot 2026-03-18 102224" src="https://github.com/user-attachments/assets/e0d031c1-cb5d-4e7c-916b-8e1d32aaacb8" />\
